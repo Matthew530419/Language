@@ -22,3 +22,12 @@ P.S : Difference between Library and Framework
 
 - Library : I call "Library" when I needed
 - Framework : "Framework" call me for good operating following that rules.
+
+**Resolve Failure**
+
+Fatal : The current branch master has no upstream branch.
+
+- Occurred when put in "git push"
+- Repository's name is needed when git push
+- Countermeasure : `git push --set-upstream Language master`
+- To push the current branch and set the remote as upstream, use
