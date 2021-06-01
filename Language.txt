@@ -1,0 +1,3 @@
+Choice "Javascript and Node.js"
+Node.js could be coded with Javascript when Front-end developing and Back-end developing
+Latest applications was made using these language by many kinds of major companies, such as Uber, Netflix and so on.
