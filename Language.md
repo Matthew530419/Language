@@ -29,5 +29,14 @@ Fatal : The current branch master has no upstream branch.
 
 - Occurred when put in "git push"
 - Repository's name is needed when git push
-- Countermeasure : `git push --set-upstream Language master`
+- Countermeasure : `git push --set-upstream Language main`
 - To push the current branch and set the remote as upstream, use
+
+Fatal : Exiting because of unfinished merge
+
+- Occurred when put in "git pull"
+- Not finished commit of deleted README.md
+- I changed the name of README file from README to README_Language on my local folder and git add completed but not finished commit
+- Countermeasure : `git commit -m "deleted README.md"`
+  `git add README_Language.md`
+  `git push`
