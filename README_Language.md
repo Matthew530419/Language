@@ -40,3 +40,4 @@ Fatal : Exiting because of unfinished merge
 - Countermeasure : `git commit -m "deleted README.md"`
   `git add README_Language.md`
   `git push`
+- When error : error: failed to push some refs to URL, you use `git pull` and then `git push` once again to move to source from remote to local and connection
