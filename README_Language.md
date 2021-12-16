@@ -15,7 +15,7 @@ Please refer below languages and frameworks for good understanding.
 |Python|Django|
 
 If you use Javascript and Node.js, you could make application or web regardless of thread sequences, because they use non-blocking IO with single thread and send response when each request is finished in parallel.
-It's simple for you to make application or web if you use javascript and node.js compared these to other languages and frameworks. you could use **only one language and only one framework** for application or web. You may use several languages and framework that suit certain condition or purpose except for javascript and node.js.
+It's simple for you to make application or web if you use javascript and node.js compared to other languages and frameworks. you could use **only one language and only one framework** for application or web. You may use several languages and framework that suit certain condition or purpose except for javascript and node.js.
 In addition, many major companies make their application and web using node.js. "Uber, Netflix, and so on".
 It was demonstrated what these computing language and framework lead to trend by these major companies.
 These has good things such as high performance, easy to access and easy to execute complicated system.
